@@ -1,6 +1,6 @@
 Projet 2 OPC :
 
-Ce projet consiste à faire un script permetant de scrap les données d'un site internet d'achat de livre tel que le prix, la disponibilé du produit, etc. Pour les ranger dans un CSV.
+Ce projet consiste à faire un script permetant d'extraire les données (scraping) d'un site internet d'achat de livre tel que le prix, la disponibilé du produit, etc. Pour les ranger dans un CSV.
 
 Pour commencer :
 
