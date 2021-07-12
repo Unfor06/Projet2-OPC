@@ -8,8 +8,8 @@ Installer les packages requis pour excuter le script avec la commande "pip insta
 
 Pré-requis :
 
-.Python3
-.Pip
+-Python3
+-Pip
 
 Démarrage: 
 
