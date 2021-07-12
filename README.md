@@ -13,7 +13,7 @@ Pré-requis :
 
 Démarrage: 
 
-Aller donc dans la localiation du script dans votre terminal à l'aide la commande "cd" puis excuter les trois scripts un par un en fesant ce si : python3 P2_01.py puis python3 P2_02.py et pour finir python3 P2_03.py
+Placez vous dans le répertoire contenant les scripts à l'aide de la commande "cd" dans le terminal, puis excuter les trois scripts un par un en fesant ce si : python3 P2_01.py puis python3 P2_02.py et pour finir python3 P2_03.py
 
 
 
